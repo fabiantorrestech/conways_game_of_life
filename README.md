@@ -5,14 +5,17 @@ This specific implementation was completed with Linked Lists and pointers, howev
 
 The .c file expects a file formatted like so...
 
-number of turns
+1) number of turns
 
-grid size (#rows #columns)
+2) grid size (#rows #columns)
 
-coordinates of starting 'alive' positions on the board (#row# #column)
+3) coordinates of starting 'alive' positions on the board (#row# #column)
 
 example: 
 ![](https://i.imgur.com/FAS1lz1.png)
+
+----------------------
+
 
 Example Output with given Conway.txt file:
 ![](https://i.imgur.com/FIgFDPq.png)
