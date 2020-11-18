@@ -24,4 +24,4 @@ Example Output with given Conway.txt file:
 Compiling instructions:
 
 Assuming you have a gcc environment installed, you can simply compile by running the following command in the directory of the .c file:
-""" gcc conways_game_of_life.c -o conways_game_of_life """
+    gcc conways_game_of_life.c -o conways_game_of_life
