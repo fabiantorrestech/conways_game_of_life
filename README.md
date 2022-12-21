@@ -27,3 +27,7 @@ Assuming you have a gcc environment installed, you can simply compile by running
 
 
     gcc conways_game_of_life.c -o conways_game_of_life
+
+Then run the program from the same directory with the compiled executable C file with:
+    
+    ./conways_game_of_life
