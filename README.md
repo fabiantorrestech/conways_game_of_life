@@ -1,6 +1,6 @@
 # Conway's Game of Life
 
-This is the final project completed in my CS 107 (Introduction to Programming) completed in C.
+This is the final project completed in my CS 107 (Introduction to Programming for Computer Engineers) completed in C.
 This specific implementation was completed with Linked Lists and pointers, however, we also implemented it via 3D arrays at an earlier point in the course.
 
 The .c file expects a file formatted like so...
