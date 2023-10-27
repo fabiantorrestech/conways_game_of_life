@@ -31,3 +31,8 @@ Assuming you have a gcc environment installed, you can simply compile by running
 Then run the program from the same directory with the compiled executable C file with:
     
     ./conways_game_of_life
+
+----------------------
+Additional Note:
+
+Running this program in a browser-based environment will most likely cause stack overflow or ***stack smashing detected*** error, as it is to prevent stack-based buffer-overflow. This is normal, but the program still works correctly. This does not occur in an IDE or proper development environment.
