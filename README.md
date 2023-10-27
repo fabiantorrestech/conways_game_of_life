@@ -1,5 +1,9 @@
 # Conway's Game of Life
 
+Live Demo: https://replit.com/@fabiantorrestec/conwaysgameoflife#README.md
+
+_Running this program in a browser-based environment will most likely cause stack overflow or ***stack smashing detected*** error, as it is to prevent stack-based buffer-overflow. This is normal, but the program still works correctly. This does not occur in an IDE or proper development environment._
+
 This is the final project completed in my CS 107 (Introduction to Programming for Computer Engineers) completed in C.
 This specific implementation was completed with Linked Lists and pointers, however, we also implemented it via 3D arrays at an earlier point in the course.
 
@@ -32,7 +36,3 @@ Then run the program from the same directory with the compiled executable C file
     
     ./conways_game_of_life
 
-----------------------
-Additional Note:
-
-Running this program in a browser-based environment will most likely cause stack overflow or ***stack smashing detected*** error, as it is to prevent stack-based buffer-overflow. This is normal, but the program still works correctly. This does not occur in an IDE or proper development environment.
