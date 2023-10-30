@@ -17,9 +17,8 @@ example, given in "conway.txt":
 ![](https://i.imgur.com/FAS1lz1.png)
 
 ----------------------
-
-
 Example Output with given Conway.txt file:
+
 ![](https://i.imgur.com/FIgFDPq.png)
 
 ----------------------
