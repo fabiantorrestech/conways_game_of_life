@@ -7,15 +7,13 @@ _Running this program in a browser-based environment will most likely cause stac
 This is the final project completed in my CS 107 (Introduction to Programming for Computer Engineers) completed in C.
 This specific implementation was completed with Linked Lists and pointers, however, we also implemented it via 3D arrays at an earlier point in the course.
 
-The .c file expects a file formatted like so...
+The .c file expects an input file formatted like so...
 
 1) number of turns
-
 2) grid size (#rows #columns)
-
 3) coordinates of starting 'alive' positions on the board (#row# #column)
 
-example: 
+example, given in "conway.txt": 
 ![](https://i.imgur.com/FAS1lz1.png)
 
 ----------------------
